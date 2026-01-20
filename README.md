@@ -98,3 +98,27 @@ Please ⭐️ this repository if this project helped you!
 ## 📌License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
+## 📌Learning Resources to Extend This Project
+
+To build this project further and enhance its capabilities, a strong understanding of the following areas is recommended:
+
+### 🐍 Python Fundamentals
+Python is the core language behind this project. A solid grasp of syntax, control flow, functions, and error handling will help you modify and extend the assistant’s functionality.  
+👉 [Python Programming Course](https://www.mygreatlearning.com/academy/premium/master-python-programming)
+
+### 🎙️ Voice Processing & NLP
+Voice commands are processed using speech and text-based techniques. Understanding Natural Language Processing (NLP) concepts such as tokenization and text analysis can help improve voice interaction.  
+👉 [Introduction to NLP](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing)
+
+### 🤖 Intelligence & Generative AI
+Currently, the assistant follows predefined logic. By integrating Generative AI concepts, it can be enhanced into a conversational assistant capable of generating intelligent responses and performing web-based tasks.  
+👉 [Introduction to Generative AI](https://www.mygreatlearning.com/academy/premium/master-generative-ai)
+
+### 👁️ Computer Vision
+To make the assistant more advanced, computer vision can be introduced for features like face detection and gesture control. Learning image and video processing fundamentals is a good starting point.  
+👉 [Computer Vision Essentials](https://www.mygreatlearning.com/academy/learn-for-free/courses/computer-vision-essentials)
+
+---
+
+> *Some learning resources mentioned above are shared as part of an educational collaboration.*
